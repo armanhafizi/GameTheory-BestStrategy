@@ -1,0 +1,1 @@
+This code finds the best strategu to a subgame given in a json format. Feel free to contact me for more information.
